@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+<Document>
+<Style id="3576700528">
+  <LineStyle>
+    <color>ff0000ff</color>
+    <width>1</width>
+  </LineStyle>
+  <PolyStyle>
+    <color>40ff0000</color>
+  </PolyStyle>
+</Style>
+<Folder>
+<name>任务范围</name>
+<Placemark>
+  <name>ff</name>
+  <description/>
+  <styleUrl>#3576700528</styleUrl>
+  <Polygon>
+    <tessellate>1</tessellate>
+    <outerBoundaryIs>
+      <LinearRing>
+        <coordinates>
+          104.515191186,28.459661627,0
+          104.517626632,28.459661627,0
+          104.517626632,28.460895443,0
+          104.515191186,28.460895443,0
+          104.515191186,28.459661627,0
+        </coordinates>
+      </LinearRing>
+    </outerBoundaryIs>
+  </Polygon>
+</Placemark>
+</Folder>
+</Document>
+</kml>
